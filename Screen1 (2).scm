@@ -1,0 +1,4 @@
+#|
+$JSON
+{"authURL":["ai2.appinventor.mit.edu"],"YaVersion":"206","Source":"Form","Properties":{"$Name":"Screen1","$Type":"Form","$Version":"27","AppName":"CORODATES","BackgroundColor":"&HFF00FFFF","Icon":"images(1).jpeg","Scrollable":"True","ShowStatusBar":"False","Title":"Screen1","TitleVisible":"False","Uuid":"0","$Components":[{"$Name":"VerticalArrangement1","$Type":"VerticalArrangement","$Version":"3","Height":"-2","Width":"-2","Uuid":"-1620197755","$Components":[{"$Name":"WebViewer1","$Type":"WebViewer","$Version":"10","Height":"-2","Width":"-2","HomeUrl":"https:\/\/www.worldometers.info\/coronavirus\/","IgnoreSslErrors":"True","Uuid":"-1103920858"}]}]}}
+|#
